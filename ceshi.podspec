@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ceshi'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = '这是测试第四版'
 
 # This description is used to generate tags and improve search results.
