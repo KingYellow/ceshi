@@ -1,0 +1,16 @@
+PODS:
+  - ceshi (0.1.0)
+
+DEPENDENCIES:
+  - ceshi (from `../`)
+
+EXTERNAL SOURCES:
+  ceshi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ceshi: 14ea7418fc82abb68dbc1c842f3a557d5097970a
+
+PODFILE CHECKSUM: 1120cf7c50c2067fbd7a8a246f6cd0d67cdfd7e7
+
+COCOAPODS: 1.5.3

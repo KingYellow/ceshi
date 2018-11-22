@@ -1,0 +1,22 @@
+{
+  "name": "ceshi",
+  "version": "0.1.0",
+  "summary": "A short description of ceshi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KingYellow/ceshi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KingYellow": "11222@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/KingYellow/ceshi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ceshi/Classes/**/*"
+}
