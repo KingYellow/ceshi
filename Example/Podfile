@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ceshi_Tests' do
+  pod 'ceshi', :path => '../'
+  
+  
+end
